@@ -17,13 +17,42 @@ Welcome to my GitHub profile! I'm a backend developer and competitive programmer
 
 ## 🛠️ Skills & Tools
 
-### Programming Languages
-- **C**, **C++**, **C#**, **Python**, **JavaScript**
+### 💻 Programming Languages
+- 🐍 **Python**
+- ⚙️ **C**, **C++**, **C#**
+- 🌐 **JavaScript**
 
-### Frameworks, Libraries, and Tools
-- **ASP.NET Core**, **MAUI**, **Entity Framework Core**, **Dapper**, **Aiogram**
-- **PostgreSQL**, **SignalR**, **Docker**
-- **HTML**, **CSS**, **Swagger**, **Postman**
+---
+
+### 🖼️ Frameworks
+- 🖥️ **ASP.NET Core**: Build high-performance backend APIs.
+- 📱 **MAUI (Multi-platform App UI)**: Cross-platform app development.
+- 🔗 **SignalR**: Real-time communication.
+
+---
+
+### 📚 Libraries
+- 🛠️ **Entity Framework Core**: ORM for database management.
+- 📋 **Dapper**: Lightweight ORM for efficient SQL queries.
+- 🤖 **Aiogram**: Python library for Telegram bot development.
+
+---
+
+### 🛠️ Tools
+- 🐳 **Docker**: Containerization for scalable development and deployment.
+- 🧪 **Postman**: API testing and debugging.
+- 📘 **Swagger**: API documentation and exploration.
+
+---
+
+### 💾 Databases
+- 🐘 **PostgreSQL**: Scalable and reliable relational database.
+
+---
+
+### 🌐 Web Technologies
+- 🖌️ **HTML** & **CSS**: Frontend design and styling.
+- 🎨 **Responsive Design**: Cross-platform and mobile-first UI development.
 
 ---
 
