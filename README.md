@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a backend developer and competitive programmer
   - Studying: Programming, Mathematics, Algorithms, Cybersecurity, and Cryptography.
 - 🔭 **Current Projects**:  
   - [Kabutar](https://github.com/keldibekovulugbek/kabutar-backend) – a real-time messaging app.  
-  - [Bookbond](https://github.com/keldibekovulugbek/bookbond) – a web application that connects readers with books and encourages a habit of reading through curated lists, personal reviews, and recommendations.
+  - [Bookbond](https://github.com/keldibekovulugbek/bookbond) – a web application that connects readers with books.
 - 💼 **Professional Experience**:  
   - Specialist in building BPM systems for banks using the **ELMA BPM low-code platform** (C#).
 
