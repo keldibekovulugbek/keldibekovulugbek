@@ -5,9 +5,9 @@ Welcome to my GitHub profile! I'm a backend developer and competitive programmer
 ---
 
 ## 🌟 About Me
-- 🎓 **4th-Year Student at TUIT (Tashkent University of Information Technologies)**  
+- 🎓 **Bachelor’s Degree in Software Engineering, Tashkent University of Information Technologies (TUIT)**  
   - Studying: Programming, Mathematics, Algorithms, Cybersecurity, and Cryptography.
-- 🔭 **Current Projects**:  
+- 🔭 **Current My Open Source Projects**:  
   - [Kabutar](https://github.com/keldibekovulugbek/kabutar-backend) – a real-time messaging app.  
   - [Bookbond](https://github.com/keldibekovulugbek/bookbond) – a web application that connects readers with books.
 - 💼 **Professional Experience**:  
