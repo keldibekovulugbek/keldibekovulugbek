@@ -1,103 +1,74 @@
-# Hi there! 👋 I'm Ulug'bek Keldibekov
+# Hi, I'm Ulug'bek Keldibekov 👋
 
-Welcome to my GitHub profile! I'm a backend developer and competitive programmer passionate about creating efficient and scalable solutions. 🚀 My expertise spans across multiple technologies, programming languages, and competitive platforms.
-
----
-
-## 🌟 About Me
-- 🎓 **Bachelor’s Degree in Software Engineering, Tashkent University of Information Technologies (TUIT)**  
-  - Studying: Programming, Mathematics, Algorithms, Cybersecurity, and Cryptography.
-- 🔭 **Current My Open Source Projects**:  
-  - [Kabutar](https://github.com/keldibekovulugbek/kabutar-backend) – a real-time messaging app.  
-  - [Bookbond](https://github.com/keldibekovulugbek/bookbond) – a web application that connects readers with books.
-- 💼 **Professional Experience**:  
-  - Specialist in building BPM systems for banks using the **ELMA BPM low-code platform** (C#).
+**.NET Engineer** specializing in enterprise BPM systems for the banking sector.  
+Based in Tashkent, Uzbekistan 🇺🇿
 
 ---
 
-## 🛠️ Skills & Tools
+## 💼 About Me
 
-### 💻 Programming Languages
-- 🐍 **Python**
-- ⚙️ **C**, **C++**, **C#**
-- 🌐 **JavaScript**
-
----
-
-### 🖼️ Frameworks
-- 🖥️ **ASP.NET Core**: Build high-performance backend APIs.
-- 📱 **MAUI (Multi-platform App UI)**: Cross-platform app development.
-- 🔗 **SignalR**: Real-time communication.
+- 🏦 Building **enterprise BPM automation systems** for major Uzbek banks at [Tune Consulting](https://tune.uz)
+- ⚙️ Specialized in **credit scoring, compliance screening, and loan origination** workflows using ELMA BPM + C#
+- 🎓 Bachelor's in Software Engineering — **Tashkent University of Information Technologies (TUIT)**
+- 🏆 Former **Physics & Mathematics Olympiad** winner (Regional 1st place, 2x)
+- 🧠 Competitive programmer on [LeetCode](https://leetcode.com/u/ulugbek_keldibekov/) and [Robocontest](https://robocontest.uz/profile/ulugbek_lider)
 
 ---
 
-### 📚 Libraries
-- 🛠️ **Entity Framework Core**: ORM for database management.
-- 📋 **Dapper**: Lightweight ORM for efficient SQL queries.
-- 🤖 **Aiogram**: Python library for Telegram bot development.
+## 🛠️ Tech Stack
 
----
+**Languages**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-### 🛠️ Tools
-- 🐳 **Docker**: Containerization for scalable development and deployment.
-- 🧪 **Postman**: API testing and debugging.
-- 📘 **Swagger**: API documentation and exploration.
+**Frameworks & Libraries**  
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-0078D4?style=flat)
+![MAUI](https://img.shields.io/badge/MAUI-512BD4?style=flat&logo=dotnet&logoColor=white)
 
----
+**Databases & Tools**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-### 💾 Databases
-- 🐘 **PostgreSQL**: Scalable and reliable relational database.
-
----
-
-### 🌐 Web Technologies
-- 🖌️ **HTML** & **CSS**: Frontend design and styling.
-- 🎨 **Responsive Design**: Cross-platform and mobile-first UI development.
-
----
-
-## 📈 Competitive Programming
-I love solving algorithmic challenges and competing on programming platforms:  
-- **LeetCode**: [@ulugbek_keldibekov](https://leetcode.com/u/ulugbek_keldibekov/)  
-- **Robocontest**: [@ulugbek_lider](https://robocontest.uz/profile/ulugbek_lider)
+**BPM & Enterprise**  
+![ELMA BPM](https://img.shields.io/badge/ELMA_BPM-0066CC?style=flat)
+![NHibernate](https://img.shields.io/badge/NHibernate-5C2D91?style=flat)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🕊️ **Kabutar**
-- **Description**: A real-time messaging application for secure 1-on-1 communication.  
-- **Technologies**: ASP.NET Core, SignalR, PostgreSQL, MAUI.  
-- **Repos**:  
-  - [Backend](https://github.com/keldibekovulugbek/kabutar-backend)  
-  - [Frontend](https://github.com/keldibekovulugbek/kabutar-frontend)
+### 🕊️ Kabutar — Real-time Messenger
+> Secure 1-on-1 messaging platform with real-time communication
 
-### 📚 **Bookbond**
-- **Description**: A platform for users to buy, sell, and discover books.  
-- **Technologies**: ASP.NET Core, PostgreSQL, EF Core.  
-- **Repo**: [Bookbond](https://github.com/keldibekovulugbek/bookbond)
+**Stack:** ASP.NET Core · SignalR · PostgreSQL · JWT · EF Core · MAUI  
+[Backend →](https://github.com/keldibekovulugbek/kabutar-backend) · [Frontend →](https://github.com/keldibekovulugbek/kabutar-frontend)
 
 ---
 
-## 🌟 Professional Work
-- **ELMA BPM Specialist**:  
-  I have extensive experience building BPM systems for banks using the ELMA BPM low-code platform, leveraging **C#** for automation and customization.
+### 📚 Bookbond — Book Marketplace
+> Platform for buying, selling, and discovering books
+
+**Stack:** ASP.NET Core · PostgreSQL · EF Core  
+[Repo →](https://github.com/keldibekovulugbek/bookbond)
 
 ---
 
-## 📜 License
-Most of my projects are open-source and licensed under the **MIT License**. See individual repositories for more details.
+## 📊 GitHub Stats
+
+![Ulug'bek's GitHub stats](https://github-readme-stats.vercel.app/api?username=keldibekovulugbek&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keldibekovulugbek&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📞 Contact
-For questions, suggestions, or collaboration opportunities, feel free to reach out:  
-**Ulug'bek Keldibekov**  
-📧 Email: [keldibekovulugbek@gmail.com](mailto:keldibekovulugbek@gmail.com)  
-📱 Phone: +998932925559  
-📲 Telegram: [@keldibekov_ulugbek](https://t.me/keldibekov_ulugbek)  
-🌐 GitHub: [keldibekovulugbek](https://github.com/keldibekovulugbek)
+## 📬 Contact
 
----
-
-Thank you for visiting my profile! Feel free to explore my repositories or connect with me to collaborate on exciting projects. 😊
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:keldibekovulugbek@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/keldibekovulugbek)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/keldibekov_ulugbek)
