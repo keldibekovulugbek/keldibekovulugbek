@@ -60,13 +60,6 @@ Based in Tashkent, Uzbekistan 🇺🇿
 
 ---
 
-## 📊 GitHub Stats
-
-![Ulug'bek's GitHub stats](https://github-readme-stats.vercel.app/api?username=keldibekovulugbek&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keldibekovulugbek&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📬 Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:keldibekovulugbek@gmail.com)
